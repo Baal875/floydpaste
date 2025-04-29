@@ -2,6 +2,3 @@ fastapi
 uvicorn[standard]
 aiofiles
 jinja2
-databases[postgresql]
-sqlalchemy
-psycopg2-binary
