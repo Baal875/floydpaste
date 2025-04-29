@@ -1,8 +1,7 @@
 fastapi
 uvicorn[standard]
 aiofiles
-python-dotenv
-python-multipart
 jinja2
-motor
-certifi
+databases[postgresql]
+sqlalchemy
+psycopg2-binary
